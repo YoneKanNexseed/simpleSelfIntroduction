@@ -1,0 +1,19 @@
+img {
+  width: 400px;
+}
+
+.bigFont {
+  font-size: 30px;
+}
+
+.colorGreen {
+  color: green;
+}
+
+.border {
+  border: 1px solid black;
+}
+
+.marginTop {
+  margin-top: 30px;
+}
